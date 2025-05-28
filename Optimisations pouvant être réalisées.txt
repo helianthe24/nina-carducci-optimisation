@@ -1,0 +1,57 @@
+Liste des optimisations à réaliser (Étape 2)
+
+1. Performances
+A. Images
+
+Servir les images au format next-gen (WebP, AVIF…)
+
+Redimensionner les images à la taille d’affichage utile (beaucoup sont surdimensionnées)
+
+Compresser les images pour réduire leur poids
+
+Se renseigner sur lazy loading (loading="lazy") ?
+
+Ajouter les attributs width et height ?
+
+B. Code
+
+Vérifier le CSS et le JS pour voir si tout le code est utilisé/optimisé.
+
+Optimiser le chargement du CSS et JS ?
+
+C. Réseau
+
+Réduire le poids total de la page (30 Mo actuellement)
+
+Principalement lié aux images non optimisées
+
+2. Accessibilité
+
+Ajouter un attribut alt pertinent à toutes les images
+
+Ajouter une balise <title> à la page
+
+Ajouter des labels associés aux éléments de formulaire (si formulaire présent)
+
+Ajouter l’attribut lang="fr" à la balise <html>
+
+Corriger l’ordre des balises <h1>, <h2>, etc.
+
+Vérifier/corriger la navigation clavier et le contraste des couleurs
+
+"Layout shifts" ?
+
+3. SEO
+
+Ajouter une balise <title> descriptive à la page
+
+Ajouter une balise <meta name="description"> corriger la lang="fr" dans le meta
+
+Ajouter des balises structurées Schema.org pour le référencement local (avec l’adresse, tel, horaires)
+
+Vérifier que chaque image a un attribut alt pertinent
+
+Structurer le HTML avec des balises sémantiques (header, nav, main, footer, etc.)
+
+Corriger les liens sans nom discernable ?? (voir plus -> voir plus sur la page mariage)
+
