@@ -19,10 +19,6 @@ Réduire le poids total de la page (30 Mo actuellement)
 
 2. Accessibilité
 
-Ajouter des labels associés aux éléments de formulaire (Contact)
-
-Ajouter l’attribut lang="fr" à la balise <html>
-
 Corriger l’ordre des balises <h1>, <h2>, etc.
 
 Vérifier/corriger le contraste des couleurs
@@ -30,8 +26,6 @@ Vérifier/corriger le contraste des couleurs
 "Layout shifts" 
 
 3. SEO
-
-Corriger la lang="fr" dans le meta
 
 Structurer le HTML avec des balises sémantiques (header, nav, main, footer, etc.)
 

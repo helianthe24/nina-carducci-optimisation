@@ -102,7 +102,7 @@ body {
 }
 
 .gallery .nav-link.active {
-    background-color: #FFD700 !important; /* Gold */
+    background-color: #D7CC61 !important; /* Gold */
     color: #000 !important; /* Contrast */
 }
 
