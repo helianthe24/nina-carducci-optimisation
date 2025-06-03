@@ -25,6 +25,8 @@ Vérifier/corriger le contraste des couleurs
 
 "Layout shifts" 
 
+Corriger le contraste pour WAVE.
+
 3. SEO
 
 Structurer le HTML avec des balises sémantiques (header, nav, main, footer, etc.)
